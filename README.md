@@ -1,1 +1,1 @@
-# dockerize-dex
+# docker-dex
